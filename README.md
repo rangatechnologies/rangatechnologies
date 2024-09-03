@@ -25,7 +25,7 @@
 
 - 🧩 Our expertise includes **volume bots for Dextools boosting** and **blockchain games**.
 
-- 📫 Reach us at **[info@rangatechnologies.com](mailto:info@rangatechnologies.com)**
+- 📫 Reach us at **[info@rangatechnologies.com](mailto:info@rangatechnologies.com)** or on **[Telegram](https://t.me/rangatechnologies)**
   
 - ⚡ Fun fact: **Blockchain is our playground!**
 
@@ -67,21 +67,18 @@
 <a href="https://www.linkedin.com/company/rangatechnologies/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" /></a>
 <a href="https://www.instagram.com/rangatechnologies" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Instagram" height="50" width="50" /></a>
 <a href="https://api.whatsapp.com/message/XEABYADPSDL2D1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="50" width="50" /></a>
-<a href="https://www.rangatechnologies.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Google_web_search_icon.svg" alt="Website" height="50" width="50" /></a>
+<a href="https://www.rangatechnologies.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Windows_Settings_app_icon.png" alt="Website" height="50" width="50" /></a>
 </p>
 
 ---
 
 <h3 align="center">Technologies and Tools:</h3>
 <p align="center">
-<a href="https://solana.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solana.svg" alt="Solana" width="50" height="50"/> </a> 
-<a href="https://ethereum.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ethereum.svg" alt="Ethereum" width="50" height="50"/> </a>
-<a href="https://tron.network/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Tron.svg" alt="Tron" width="50" height="50"/> </a>
-<a href="https://ton.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TON.svg" alt="TON" width="50" height="50"/> </a>
-<!-- Add more tools and technologies here -->
+  Solana, Ethereum, Tron, TON, Base, BSC
 </p>
 
----
+#
 
-<h3 align="center">Support Us:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/rangatech"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a></p>
+![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
+
+-----
